@@ -4,7 +4,7 @@ Tags: visual builder
 Requires at least: 6.0.0
 Tested up to: 6.6
 Requires PHP: 7.3
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,9 +33,6 @@ Here’s a basic overview of how you use this plugin to serve Webflow pages on y
 4. Define which Webflow pages you want to serve on your WordPress pages
 
 Need more? Check out our [setup guide](https://university.webflow.com/article/webflow-pages-wordpress-plugin) on Webflow University.
-
-[youtube https://www.youtube.com/watch?v=O5TdnuUhIgs]
-
 
 == Installation ==
 Here’s a basic overview of how you use this plugin to serve Webflow pages on your site:

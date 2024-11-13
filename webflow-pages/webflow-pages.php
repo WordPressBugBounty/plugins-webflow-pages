@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Webflow Pages
  * Description: Build pages visually with the power of code in Webflow, then serve them right on your WordPress site.
- * Version:     1.1.0
+ * Version:     1.1.1
  * Author:      Webflow
  * Author URI:  https://webflow.com
  * Text Domain: wf
@@ -21,7 +21,7 @@ require __DIR__ . '/includes/class-webflow-pages.php';
 
 
 // Define constants
-define('WEBFLOW_PAGES_PLUGIN_VERSION', '1.1.0');
+define('WEBFLOW_PAGES_PLUGIN_VERSION', '1.1.1');
 define('WEBFLOW_PAGES_PLUGIN_DIRECTORY_PATH', plugin_dir_path(__FILE__));
 define('WEBFLOW_PAGES_PLUGIN_DIRECTORY_URL', plugin_dir_url(__FILE__));
 define('WEBFLOW_PAGES_TEXT_DOMAIN', 'wf');

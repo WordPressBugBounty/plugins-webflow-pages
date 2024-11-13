@@ -8,7 +8,7 @@
     <div class="grid-wrapper">
         <div id="w-node-6e39292162a4-7dc0e77b" class="plugin-grid-container">
             <h2 class="heading">How to use it</h2>
-            <p class="paragraph">Follow this step by step guide to configure the plugin and serve your made-in-Webflow Pages in WordPress.</p><a href="https://university.webflow.com/article/webflow-pages-wordpress-plugin" target="noreferrer noopener _blank" class="right-button button-black w-button">Follow this guide</a></div>
+            <p class="paragraph">Follow this step by step guide to configure the plugin and serve your made-in-Webflow Pages in WordPress.</p><a href="https://help.webflow.com/hc/en-us/articles/33961370570131-Webflow-Pages-plugin-for-WordPress" target="noreferrer noopener _blank" class="right-button button-black w-button">Follow this guide</a></div>
         <div id="w-node-6e39292162ac-7dc0e77b" class="plugin-grid-container">
             <h2 class="heading">Webflow API</h2>
             <p class="paragraph">To use this plugin you need to generate your Webflow API key. You can find your site&#x27;s API key by going to the <a href="https://webflow.com/dashboard?utm_source=wpplugin" target="noreferrer noopener _blank">Webflow Dashboard</a>, then your site&#x27;s settings</p>
